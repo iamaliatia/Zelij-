@@ -1,0 +1,6 @@
+{
+  "name": "Hirafi - حرفي",
+  "description": "منصة رقمية ومجتمع تفاعلي لمحترفي الزليج المغربي، الرخام، وأعمال البناء لعرض الأعمال وتسهيل التواصل وتوفير فرص العمل وحساب التكاليف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
